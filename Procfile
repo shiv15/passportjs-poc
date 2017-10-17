@@ -1,0 +1,1 @@
+web: node app NODE_ENV=dev

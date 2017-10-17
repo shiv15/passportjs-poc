@@ -1,0 +1,7 @@
+node_modules
+.env.dev
+<<<<<<< HEAD
+google_auth_error.txt
+.env.dev
+=======
+>>>>>>> 4142dfbaf45720f7cacbf573645013ea458ec525

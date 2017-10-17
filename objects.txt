@@ -1,0 +1,36 @@
+similar objects:
+-name
+-provider
+-displayName
+
+google-
+user.
+-displayName
+-gender
+-id
+-name
+-photos
+-provider
+
+facebook-
+-_json
+-displayName
+-id
+-name
+-provider
+
+
+
+**************************************************************************
+_raw: 
+Google:
+{ "kind": "plus#person", "etag": "\"Sh4n9u6EtD24TM0RmWv7jTXojqc/ITIO2Gw6T9zx7Tg10b813BPorsE\"", "gender": "male", "objectType": "person", "id": "108448569573018618449", "displayName": "shivendu amale", "name": { "familyName": "amale", "givenName": "shivendu" }, "relationshipStatus": "single", "url": "https://plus.google.com/108448569573018618449", "image": { "url": "https://lh5.googleusercontent.com/-SOwzykPA0UM/AAAAAAAAAAI/AAAAAAAAAJQ/HKxYBFsgGOM/photo.jpg?sz=50", "isDefault": false }, "organizations": [ { "name": "R.C.F High School, Kurul.", "type": "school", "primary": false } ], "isPlusUser": true, "language": "en", "ageRange": { "min": 21 }, "circledByCount": 114, "verified": false }
+
+Facebook:
+{"name":"Shivendu Amale","id":"10214516477170524"}
+
+*************************************************************************
+
+
+
+
